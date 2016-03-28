@@ -1,0 +1,29 @@
+image
+name(First name-middle name-lastname)
+
+gender
+
+birthdate(calander)
+spouse
+mobile 1 *
+mobile 2
+email
+address(api)
+
+------  acedamic:
+passing year
+branch
+Alma mater
+Research work (if any)
+awards(if any)
+------Job status:
+job(owner/employee/)
+company name
+designation
+Company/job-location
+owner(company-name,number of employee,)
+ 
+----social:
+thoughts
+Life After LD:
+Alumni wisdom:
